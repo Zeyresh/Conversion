@@ -2,3 +2,4 @@ Conversion functions needed:
 	- Rands to Cents
 	- Hours to Minutes
 	- Kilograms to Pounds
+	- Celsius to Faranheit
